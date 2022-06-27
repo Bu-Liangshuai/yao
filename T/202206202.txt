@@ -1028,5 +1028,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://picsum.photos/1080",
-  "spider": "http://118.190.244.195/tvmovie/bd/custom_spider.jar"
+  "spider": "https://raw.fastgit.org/Bu-Liangshuai/mao-yao/main/T/custom_spider.jar"
 }
