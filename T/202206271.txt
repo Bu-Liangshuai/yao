@@ -2482,5 +2482,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider": "https://raw.fastgit.org/Bu-Liangshuai/mao-yao/main/T/XBiubiuLA3.jar"
+  "spider": "https://raw.fastgit.org/Bu-Liangshuai/mao-yao/main/T/0627.jar"
 }
