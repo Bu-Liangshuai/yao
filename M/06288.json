@@ -1,6 +1,6 @@
 
 {
-"spider":"https://raw.fastgit.org/Bu-Liangshuai/Z/main/tg2207121335.jar",
+"spider":"https://raw.fastgit.org/Bu-Liangshuai/Z/main/tg2207121335ed.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvQnUtTGlhbmdzaHVhaS9aL21haW4vbGl2ZS50eHQ="]}]}],
 
