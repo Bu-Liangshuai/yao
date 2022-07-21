@@ -37,52 +37,6 @@
 {"key": "小熊","name": "🐻小熊TV","type": 3,"api": "csp_tsXxys","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"📺Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
-//{
-      "key": "bdys",
-      "name": "哔嘀(磁力测试)",
-      "type": 3,
-      "api": "csp_XPbd",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	"ext": "https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bdys.json"
-    },
-//{
-      "key": "小宝影院",
-      "name": "小宝影院",
-      "type": 3,
-      "api": "csp_tsXiaoh",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-//	 {
-      "key": "If101",
-      "name": "If101",
-      "type": 3,
-      "api": "csp_tsIf101",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-//	{
-      "key": "Olevod",
-      "name": "Olevod",
-      "type": 3,
-      "api": "csp_tsOlevod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-//	 {
-      "key": "Lib",
-      "name": "Libvio",
-      "type": 3,
-      "api": "csp_tsLib",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 {"key":"csp_Wmkk","name":"👩‍🎓完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"csp_hbys","name":"✂️简影","api":"csp_JianYing","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"},
 //{"key":"csp_Buka","name":"⛄真不卡","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
