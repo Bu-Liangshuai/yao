@@ -94,7 +94,7 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name": "fuqi","type": 1,"url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
+{"name": "刚刚","type": 1,"url": "https://vip.fuqizhishi.com/?v="},
 {"name":"NF","type":1,"url":"https://www.nfjx.xyz/home/api?type=ys&uid=5767995&key=ijkmovxDEHIJPQRW69&url="},
 {"name": "4433","type":0,"url": "https://jx.bozrc.com:4433/player/?url="},
 {"name": "MC","type":0,"url": "http://jx.mrgaocloud.com/player/?url="},
