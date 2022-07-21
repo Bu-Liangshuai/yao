@@ -96,6 +96,7 @@
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name": "刚刚","type": 0,"url": "https://vip.fuqizhishi.com/?v="},
 {"name":"NF","type":1,"url":"https://www.nfjx.xyz/home/api?type=ys&uid=5767995&key=ijkmovxDEHIJPQRW69&url="},
+{"name":"苍蓝","type":1,"url":"http://cl.yjhan.com:8090/home/api?type=ys&uid=821518&key=aghlmnyBFIJMPRX489&url="},
 {"name": "4433","type":0,"url": "https://jx.bozrc.com:4433/player/?url="},
 {"name": "MC","type":0,"url": "http://jx.mrgaocloud.com/player/?url="},
 {"name":"盘古","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
