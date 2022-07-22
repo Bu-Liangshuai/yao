@@ -94,8 +94,6 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name": "0","type": 0,"url": "https://y.youyouadmin.me/api/v1/Analysis/getall?jx=1&url="},
-{"name": "1","type": 1,"url": "https://y.youyouadmin.me/api/v1/Analysis/getall?jx=1&url="},
 {"name": "fuqi","type": 1,"url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
 {"name": "OK","type": 0,"url": "https://okjx.cc/?url="},
 {"name": "TS","type": 1,"url": "https://json.tothis.pw/?url="},
