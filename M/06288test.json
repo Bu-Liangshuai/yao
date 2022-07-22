@@ -13,7 +13,7 @@
 {"key":"csp_SP360","name":"💘360(SP)","type":3,"api":"csp_tsSP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Bliyc","name":"👪演唱会","type": 3,"api": "csp_Biliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"csp_Bili","name":"🅱️哔哩套餐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bili.json"},
+{"key":"csp_Bili","name":"🅱️哔哩套餐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://cdn.jsdelivr.net/gh/Bu-Liangshuai/Z/Bili.json"},
 {"key":"csp_LibVio","name":"🎌LibVio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_CZSPP","name":"🚬厂长资源(SP)","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appysv2_9E03","name":"🥩9E国语","type":3,"api":"csp_tsAppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
