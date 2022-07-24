@@ -95,7 +95,7 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name": "TS","type": 1,"url": "https://json.tothis.pw/?url="},
-{"name": "0","type": 0,"url": "http://api.tvznn.cn/svip/?url="},
+
 {"name": "fuqi","type": 1,"url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
 {"name": "OK","type": 0,"url": "https://okjx.cc/?url="},
 {"name": "晓成","type": 1,"url": "https://api.cygc.xyz/analysis/?url="},
@@ -107,7 +107,8 @@
 {"name": "4433","type":0,"url": "https://jx.bozrc.com:4433/player/?url="},
 {"name": "298","type": 0,"url": "https://json.ioivip.xyz/bfq/?url="},
 {"name": "299","type": 1,"url": "https://json.ioivip.xyz/api/?key=kAEjKxuiWVzqeaCFvy&url="},
-{"name": "云","type": 0,"url": "https://jx.iztyy.com/svip/?url="},
+{"name": "云1","type": 0,"url": "http://api.tvznn.cn/svip/?url="},
+{"name": "云2","type": 0,"url": "https://jx.iztyy.com/svip/?url="},
 {"name":"盘古1","type":0,"url":"https://www.pangujiexi.com/pangu/?url="},
 {"name":"盘古2","type":0,"url":"https://www.m3u8.tv.cdn.8old.cn/jx.php?url="},
 {"name":"8090","type":0,"url":"https://www.8090g.cn/?url="},
