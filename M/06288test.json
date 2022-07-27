@@ -97,6 +97,7 @@
 {"name": "TS","type": 1,"url": "https://json.tothis.pw/?url="},
 {"name": "fuqi","type": 1,"url": "https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="},
 {"name": "fuqiQ","type": 1,"url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
+{"name": "RX","type": 1,"url": "https://jisu.rongxingvr.top/api/?key="},
 {"name":"293","type":1,"url":"http://47.98.234.2:7768/api.php?url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
 {"name": "OK","type": 0,"url": "https://okjx.cc/?url="},
 {"name": "晓成","type": 1,"url": "https://api.cygc.xyz/analysis/?url="},
