@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "csp_77",
-      "name": "💓酷云七七（推荐）",
+      "name": "👒酷云七七（推荐）",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -384,7 +384,7 @@
     },
     {
       "key": "诺讯资源",
-      "name": "📌诺讯资源(官)",
+      "name": "🥩诺讯资源(官)",
       "type": 1,
       "api": "http://caiji.nxflv.com/api.php/provide/vod/",
       "searchable": 1,
@@ -393,7 +393,7 @@
     },
     {
       "key": "天堂资源",
-      "name": "📌天堂资源(官)",
+      "name": "📺天堂资源(官)",
       "type": 1,
       "api": "http://vipmv.cc/api.php/provide/vod/",
       "searchable": 1,
@@ -577,7 +577,7 @@
     },
     {
       "key": "csp_biubiu_风车动漫",
-      "name": "🪁风车动漫(XB)",
+      "name": "❄️风车动漫(XB)",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -594,6 +594,26 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "https://cdn.jsdelivr.net/gh/Bu-Liangshuai/Z/MaooXB2/森屋新番.json"
+    },
+    {
+      "key": "csp_biubiu_打驴动漫",
+      "name": "🎃打驴动漫(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/Bu-Liangshuai/Z/MaooXB2/打驴动漫.json"
+    },
+    {
+      "key": "csp_biubiu_维奇动漫",
+      "name": "🐘维奇动漫(XB)",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/Bu-Liangshuai/Z/MaooXB2/维奇动漫.json"
     },
     {
       "key": "csp_xpath___动漫巴士",
