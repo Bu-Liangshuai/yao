@@ -47,7 +47,7 @@
     },
     {
       "key": "KanSJ_spider",
-      "name": " 🤡看视界",
+      "name": " 👟看视界",
       "type": 3,
       "api": "csp_KanSJ",
       "searchable": 1,
@@ -56,7 +56,7 @@
     },
     {
       "key": "3EDY",
-      "name": " 🧢3EDY(EXO)",
+      "name": " 🤴3EDY(EXO)",
       "type": 3,
       "api": "csp_EEEDY",
       "searchable": 1,
@@ -129,7 +129,7 @@
     },
     {
       "key": "360_spider",
-      "name": " 🕸360",
+      "name": " 👕360",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -233,7 +233,7 @@
     },
     {
       "key": "zhaozy",
-      "name": " 🦘找资源(仅搜索)",
+      "name": " 🧂找资源(仅搜索)",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -271,7 +271,7 @@
     },
     {
       "key": "csp_MGTV",
-      "name": " ⭐芒果（官）",
+      "name": "  🍋芒果（官）",
       "type": 3,
       "api": "csp_MGTV",
       "searchable": 1,
@@ -355,7 +355,7 @@
     },
     {
       "key": "csp_appysv2_M2_暖光影视",
-      "name": " 🥳暖光影视",
+      "name": " 🌻暖光影视",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -438,7 +438,7 @@
     },
     {
       "key": "金鹰资源",
-      "name": " 🛴金鹰资源(切)",
+      "name": "  😎金鹰资源(切)",
       "type": 1,
       "api": "http://jinyingzy.com/provide/vod",
       "searchable": 1,
@@ -557,7 +557,7 @@
     },
     {
       "key": "csp_biubiu_真不卡cerrd",
-      "name": " 🏓真不卡影院(XB)",
+      "name": " 🏃 真不卡影院(XB)",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -637,7 +637,7 @@
     },
     {
       "key": "csp_xpath_jbb",
-      "name": "  🥚剧白白(XP)",
+      "name": " 👻剧白白(XP)",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
