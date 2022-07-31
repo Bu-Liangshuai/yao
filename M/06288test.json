@@ -56,7 +56,7 @@
     },
     {
       "key": "3EDY",
-      "name": " 🤴3EDY(EXO)",
+      "name": " 🤸‍♂️3EDY(EXO)",
       "type": 3,
       "api": "csp_EEEDY",
       "searchable": 1,
@@ -233,7 +233,7 @@
     },
     {
       "key": "zhaozy",
-      "name": " 🧂找资源(仅搜索)",
+      "name": " 🔧找资源(仅搜索)",
       "type": 3,
       "api": "csp_Zhaozy",
       "searchable": 1,
@@ -253,7 +253,7 @@
     },
     {
       "key": "csp_DiDuan",
-      "name": "⤵️低端影视",
+      "name": " 💊低端影视",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
