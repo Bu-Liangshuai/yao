@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "csp_77",
-      "name": "👒七七(SP)",
+      "name": "👒酷云七七（推荐）",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -11,7 +11,7 @@
     },
     {
       "key": "csp_Kmys",
-      "name": "😺酷猫影视",
+      "name": "😹酷猫(快)",
       "type": 3,
       "api": "csp_Kmys",
       "searchable": 1,
@@ -38,7 +38,7 @@
     },
     {
       "key": "小苹果",
-      "name": "🍎小苹果(SP)",
+      "name": "🍎小苹果",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -65,7 +65,7 @@
     },
     {
       "key": "Ikan",
-      "name": "👕爱看",
+      "name": "💘爱看",
       "type": 3,
       "api": "csp_IKan",
       "searchable": 1,
@@ -83,7 +83,7 @@
     },
     {
       "key": "293视频",
-      "name": "💌293视频",
+      "name": " 🎒293视频",
       "type": 3,
       "api": "csp_SP293",
       "searchable": 1,
@@ -92,7 +92,7 @@
     },
     {
       "key": "csp_CZSPP",
-      "name": "🚬厂长资源(SP)",
+      "name": "🏭厂长资源",
       "type": 3,
       "api": "csp_Czsapp",
       "searchable": 1,
@@ -119,7 +119,7 @@
     },
     {
       "key": "9E03",
-      "name": "🌵9E03国语",
+      "name": "🌵9E03",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -129,7 +129,7 @@
     },
     {
       "key": "360_spider",
-      "name": "💘360(SP)",
+      "name": " 👕360",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -253,39 +253,12 @@
     },
     {
       "key": "csp_DiDuan",
-      "name": "🎒低端影视",
+      "name": " 💌低端影视",
       "type": 3,
       "api": "csp_Ddrk",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
-    },
-    {
-      "key": "csp_Cokemv",
-      "name": "📺Cokemv(SP)",
-      "type": 3,
-      "api": "csp_Cokemv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_LibVio",
-      "name": "👐LibVio",
-      "type": 3,
-      "api": "csp_Lib",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "csp_Auete",
-      "name": "🐼Auete(SP)",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
     },
     {
       "key": "csp_QQ",
@@ -310,6 +283,33 @@
       "name": " ✨爱奇艺（官）",
       "type": 3,
       "api": "csp_IQIYI",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_LibVio",
+      "name": "👐LibVio",
+      "type": 3,
+      "api": "csp_Lib",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "csp_Auete",
+      "name": "🐼Auete",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Cokemv",
+      "name": "⛲Cokemv",
+      "type": 3,
+      "api": "csp_Cokemv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
