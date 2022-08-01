@@ -1,19 +1,19 @@
 {
   "sites": [
     {
-      "key": "csp_Kunyu77",
-      "name": "👒七七(SP)",
+      "key": "csp_Kmys",
+      "name": "😺酷猫",
       "type": 3,
-      "api": "csp_Kunyu77",
+      "api": "csp_Kmys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
     },
     {
-      "key": "csp_Kmys",
-      "name": "😺酷猫",
+      "key": "csp_Kunyu77",
+      "name": "👒七七(SP)",
       "type": 3,
-      "api": "csp_Kmys",
+      "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -443,7 +443,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://cdn.jsdelivr.net/gh/Bu-Liangshuai/Z/MaooXB2/555dy.json"
+      "ext": "https://cdn.jsdelivr.net/gh/Bu-Liangshuai/Z/MaooXB2/555电影2.json"
     },
     {
       "key": "csp_biubiu_骚火电影",
@@ -597,7 +597,7 @@
     },
     {
       "key": "csp_biubiu_真不卡zhenbuka3",
-      "name": "💥真不卡影院(不支持搜索)(XB)",
+      "name": "💥真不卡影院(XB)",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -687,7 +687,7 @@
     },
     {
       "key": "csp_xpath_jbb",
-      "name": "🎁剧白白(XPF)",
+      "name": "🎁剧白白(XP)",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -697,7 +697,7 @@
     },
     {
       "key": "csp_xpath_naifeiorg",
-      "name": "🀄️奈飞中文(XPF)",
+      "name": "🀄️奈飞中文(XP)",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
