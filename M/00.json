@@ -9,11 +9,12 @@
       "quickSearch": 1,
       "filterable": 1
     },
-      {
-      "key": "八戒5",
-      "name": "八戒5",
+    {
+      "key": "八戒",
+      "name": "🐽八戒",
       "type": 1,
       "api": "https://www.bajiezy.xyz/api.php/provide/vod/?ac=list",
+      "playUrl": "https://www.mtosz.com/m3u8.php?url=",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
