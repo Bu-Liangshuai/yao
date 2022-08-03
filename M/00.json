@@ -85,7 +85,7 @@
       "key": "csp_SP360",
       "name": "💘360(SP)",
       "type": 3,
-      "api": "csp_tsSP360",
+      "api": "csp_SP360",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -103,7 +103,7 @@
       "key": "spider_IKan",
       "name": " 👕爱看",
       "type": 3,
-      "api": "csp_tsIKan",
+      "api": "csp_IKan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -121,7 +121,7 @@
       "key": "Nfyun",
       "name": "☁︎Nf云",
       "type": 3,
-      "api": "csp_tsNfyun",
+      "api": "csp_Nfyun",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -139,7 +139,7 @@
       "key": "csp_appysv2_9E03",
       "name": "🌵9E国语",
       "type": 3,
-      "api": "csp_tsAppYsV2",
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -234,7 +234,7 @@
       "key": "小熊",
       "name": "🐻小熊TV",
       "type": 3,
-      "api": "csp_tsXxys",
+      "api": "csp_Xxys",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
