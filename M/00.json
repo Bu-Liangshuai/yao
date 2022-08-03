@@ -10,8 +10,8 @@
       "filterable": 1
     },
     {
-      "key": "八戒",
-      "name": "八戒",
+      "key": "八戒2",
+      "name": "八戒2",
       "type": 1,
       "api": "https://www.bajiezy.xyz/api.php/provide/vod/?ac=list",
       "playUrl": "json:https://www.hfyrw.com/json.php?url=",
