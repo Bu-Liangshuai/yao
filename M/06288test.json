@@ -19,6 +19,15 @@
       "filterable": 1
     },
     {
+      "key": "Lezhu_spider",
+      "name": "🐷乐猪影视(SP)",
+      "type": 3,
+      "api": "csp_Lezhu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "追剧喵",
       "name": "🐈追剧喵",
       "type": 3,
@@ -1919,5 +1928,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://raw.fastgit.org/Bu-Liangshuai/Z/main/tsqj220803.jar;md5;03F73A5CACF30F90F32AAE342D18F3A9"
+  "spider": "https://raw.fastgit.org/Bu-Liangshuai/Z/main/tsqj220808.jar;md5;148CD319ABC1F0C929EC79DC81E0455F"
 }
