@@ -847,25 +847,10 @@
       "type": 1,
       "url": "https://json.tothis.pw/?url="
     },
-    //{
-      "name": "fuqi",
-      "type": 1,
-      "url": "https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="
-    },
-    //{
-      "name": "fuqiQ",
-      "type": 1,
-      "url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="
-    },
     {
       "name": "GGTV",
       "type": 1,
       "url": "https://play.fuqizhishi.com/ggtv/API.php?appkey=QQ172598364&url="
-    },
-    //{
-      "name": "XT",
-      "type": 1,
-      "url": "https://jx.xiaot.cc:2222/api/?url= "
     },
     {
       "name": "直链",
@@ -876,31 +861,6 @@
       "name": "RX",
       "type": 1,
       "url": "https://jisu.rongxingvr.top/api/?key=JGM0Kc1Sz0xCJnRMcY&url="
-    },
-    //{
-      "name": "BP",
-      "type": 1,
-      "url": "https://www.hfyrw.com/json.php?url="
-    },
-    //{
-      "name": "293",
-      "type": 1,
-      "url": "http://47.98.234.2:7768/api.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "qiyi",
-          "mgtv",
-          "youku",
-          "letv",
-          "sohu",
-          "xigua",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "Dart/2.14 (dart:io)"
-        }
-      }
     },
     {
       "name": "OK",
@@ -1053,11 +1013,6 @@
       "name": "MC",
       "type": 0,
       "url": "http://jx.mrgaocloud.com/player/?url="
-    },
-    //{
-      "name": "线路1",
-      "type": 1,
-      "url": "https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url="
     },
     {
       "name": "线路3",
