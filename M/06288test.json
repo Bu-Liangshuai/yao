@@ -858,6 +858,11 @@
       "url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="
     },
     {
+      "name": "GGTV",
+      "type": 1,
+      "url": "https://play.fuqizhishi.com/ggtv/API.php?appkey=QQ172598364&url="
+    },
+    {
       "name": "XT",
       "type": 1,
       "url": "https://jx.xiaot.cc:2222/api/?url= "
