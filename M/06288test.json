@@ -10,15 +10,6 @@
       "filterable": 1
     },
     {
-      "key": "Lezhu_spider",
-      "name": "🐷乐猪影视(SP)",
-      "type": 3,
-      "api": "csp_Lezhu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "追剧喵",
       "name": "🐈追剧喵",
       "type": 3,
@@ -37,13 +28,23 @@
       "filterable": 1
     },
     {
+      "key": "Lezhu_spider",
+      "name": "🐷乐猪影视(SP)",
+      "type": 3,
+      "api": "csp_Lezhu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "293视频",
       "name": "💌293视频",
       "type": 3,
       "api": "csp_SP293",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+	  "jar":"https://raw.fastgit.org/Bu-Liangshuai/Z/main/gg0817.jar;md5;641F918CE1CCA9DF3770B9F969DD9F3F"
     },
     {
       "key": "csp_LiteApple",
@@ -219,7 +220,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"
+      "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"
     },
     {
       "key": "csp_Cokemv",
@@ -279,6 +280,26 @@
       "ext": "3a49cf29cf20410997247c6eb4509be9"
     },
     {
+      "key": "csp_Yj1211",
+      "name": "📽️直播合集",
+      "type": 3,
+      "api": "csp_Yj1211",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	  "jar":"https://raw.fastgit.org/Bu-Liangshuai/Z/main/gg0817.jar;md5;641F918CE1CCA9DF3770B9F969DD9F3F"
+    },
+    {
+      "key": "csp_Anime1",
+      "name": "🌸动漫",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	  "jar":"https://raw.fastgit.org/Bu-Liangshuai/Z/main/gg0817.jar;md5;641F918CE1CCA9DF3770B9F969DD9F3F"
+    },
+    {
       "key": "csp_DiDuan",
       "name": " 💌低端影视",
       "type": 3,
@@ -322,6 +343,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
+    },
+    {
+      "key": "csp_剧荒",
+      "name": "🎭剧荒",
+      "type": 3,
+      "api": "csp_Juhuang",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+	  "jar":"https://raw.fastgit.org/Bu-Liangshuai/Z/main/gg0817.jar;md5;641F918CE1CCA9DF3770B9F969DD9F3F"
     },
     {
       "key": "csp_appys_美剧虫",
@@ -820,7 +851,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvQnUtTGlhbmdzaHVhaS9aL21haW4vbGl2ZS50eHQ="
+            "proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyL2xpdmUudHh0"
           ]
         }
       ]
@@ -843,29 +874,9 @@
       "url": "Sequence"
     },
     {
-      "name": "TS",
-      "type": 1,
-      "url": "https://json.tothis.pw/?url="
-    },
-    {
-      "name": "fuqi",
-      "type": 1,
-      "url": "https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="
-    },
-    {
-      "name": "fuqiQ",
-      "type": 1,
-      "url": "https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="
-    },
-    {
       "name": "GGTV",
       "type": 1,
-      "url": "https://play.fuqizhishi.com/ggtv/API.php?appkey=QQ172598364&url="
-    },
-    {
-      "name": "XT",
-      "type": 1,
-      "url": "https://jx.xiaot.cc:2222/api/?url= "
+      "url": "https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="
     },
     {
       "name": "直链",
@@ -876,31 +887,6 @@
       "name": "RX",
       "type": 1,
       "url": "https://jisu.rongxingvr.top/api/?key=JGM0Kc1Sz0xCJnRMcY&url="
-    },
-    {
-      "name": "BP",
-      "type": 1,
-      "url": "https://www.hfyrw.com/json.php?url="
-    },
-    {
-      "name": "293",
-      "type": 1,
-      "url": "http://47.98.234.2:7768/api.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "qiyi",
-          "mgtv",
-          "youku",
-          "letv",
-          "sohu",
-          "xigua",
-          "1905"
-        ],
-        "header": {
-          "User-Agent": "Dart/2.14 (dart:io)"
-        }
-      }
     },
     {
       "name": "OK",
@@ -1053,11 +1039,6 @@
       "name": "MC",
       "type": 0,
       "url": "http://jx.mrgaocloud.com/player/?url="
-    },
-    {
-      "name": "线路1",
-      "type": 1,
-      "url": "https://svip.iepig.com:4443/api/?key=SicQs2pG0Cw7BnWV9a&url="
     },
     {
       "name": "线路3",
