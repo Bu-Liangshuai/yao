@@ -10,15 +10,6 @@
       "filterable": 1
     },
     {
-      "key": "Lezhu_spider",
-      "name": "🐷乐猪影视(SP)",
-      "type": 3,
-      "api": "csp_Lezhu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "追剧喵",
       "name": "🐈追剧喵",
       "type": 3,
@@ -32,6 +23,15 @@
       "name": "🐎神马影院",
       "type": 3,
       "api": "csp_Smdyy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Lezhu_spider",
+      "name": "🐷乐猪影视(SP)",
+      "type": 3,
+      "api": "csp_Lezhu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -219,7 +219,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjoyNTU5OSwiQ3JlYXRlZEF0IjoiMjAyMi0wNy0xN1QwOTo1OTowMy43MzIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA3LTE3VDA5OjU5OjAzLjczMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6ImppYW55aW5nOTk5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjA1NzRiMzAyLTc5MzUtNGFlZi1hOTBkLTFlZjdjMTU3Y2U2MyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjU4NjI3OTQ2LCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.u2bRjVQAb1DisJYFPmkwPTi_kpaLoOR20hvZ34lVTDY"
+      "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDExMywiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xMVQxMDo1OToxNS4zMiswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDgtMjRUMTA6MjE6NTEuOTk0KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMTcyNTk4MzY0QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjBlYWViNjY5LWY3OWQtNDdhNS1iYTM2LTA2NjQ5OTJkMjY2YyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOiIyMDIyLTA4LTI0VDEwOjIxOjUxLjk5MyswODowMCIsInJlZ19rZXkiOiI3MTYxMjA4OCIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjE5MTI1NTUsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.pVELLcrhOIzquIzB8NN16uu3YS_4Vn4pV40yMT6KxL4"
     },
     {
       "key": "csp_Cokemv",
@@ -249,6 +249,16 @@
       "filterable": 1
     },
     {
+      "key": "Yiso",
+      "name": "易搜",
+      "type": 3,
+      "api": "csp_Yiso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+    },
+    {
       "key": "csp_GitCafe",
       "name": "📜小纸条",
       "type": 3,
@@ -256,17 +266,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "3a49cf29cf20410997247c6eb4509be9"
+      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
     },
     {
       "key": "csp_Zhaozy",
       "name": "🔍找资源",
       "type": 3,
-      "api": "csp_Zhaozy",
+      "api": "csp_FindZY",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "3a49cf29cf20410997247c6eb4509be9"
+      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
     },
     {
       "key": "csp_AliPS",
@@ -276,7 +286,25 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "3a49cf29cf20410997247c6eb4509be9"
+      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+    },
+    {
+      "key": "csp_Yj1211",
+      "name": "📽️直播合集",
+      "type": 3,
+      "api": "csp_Yj1211",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_Anime1",
+      "name": "🌸动漫",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_DiDuan",
@@ -319,6 +347,15 @@
       "name": "🐼Auete(SP)",
       "type": 3,
       "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_剧荒",
+      "name": "🎭剧荒",
+      "type": 3,
+      "api": "csp_Juhuang",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -810,7 +847,8 @@
       "api": "csp_PushAgent",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
+      "filterable": 0,
+      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
     }
   ],
   "lives": [
@@ -820,7 +858,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvQnUtTGlhbmdzaHVhaS9aL21haW4vbGl2ZS50eHQ="
+            "proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyL2xpdmUudHh0"
           ]
         }
       ]
@@ -843,14 +881,9 @@
       "url": "Sequence"
     },
     {
-      "name": "TS",
-      "type": 1,
-      "url": "https://json.tothis.pw/?url="
-    },
-    {
       "name": "GGTV",
       "type": 1,
-      "url": "https://play.fuqizhishi.com/ggtv/API.php?appkey=QQ172598364&url="
+      "url": "https://play.fuqizhishi.com/gang0830/API.php?appkey=zhitigonggeixiaobai0902&url="
     },
     {
       "name": "直链",
@@ -1888,5 +1921,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://raw.fastgit.org/Bu-Liangshuai/Z/main/tsqj220809.jar;md5;3AF79E0603C4BDAD020FB3F122C403E5"
+  "spider": "https://raw.fastgit.org/Bu-Liangshuai/Z/main/0901.jar;md5;37CD198BD599765CB1452D3A33E48768"
 }
