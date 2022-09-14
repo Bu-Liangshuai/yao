@@ -37,6 +37,24 @@
       "filterable": 1
     },
     {
+      "key": "APPTT",
+      "name": "通道-10（SP）",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "感谢桉佬",
+      "name": "榜单荐片",
+      "type": 4,
+      "api": "https://t4.secan.icu/vod?sites=voflix,bdys01,onelist,dy555,gitcafe&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=6",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
       "key": "293视频",
       "name": "💌293视频",
       "type": 3,
@@ -1921,5 +1939,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "spider": "https://raw.fastgit.org/Bu-Liangshuai/Z/main/0901.jar;md5;37CD198BD599765CB1452D3A33E48768"
+  "spider": "https://raw.fastgit.org/Bu-Liangshuai/Z/main/0906.jar;md5;407F5087DF6860F97AF981E56848ADB6"
 }
