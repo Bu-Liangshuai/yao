@@ -9,6 +9,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	{"key":"dr_豆瓣","name":"🔍豆瓣荐片(drpy)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/%e8%b1%86%e7%93%a3.js"},
+{"key":"T4_douban","name":"🔍影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "追剧喵",
       "name": "🐈追剧喵",
@@ -108,6 +110,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	{"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"IKan","name":"💖爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/cs.txt"},
 {"key":"Tbook","name":"🌿听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/cs.txt"},
 {"key":"Yanet","name":"🦆鸭奶飞","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/cs.txt"},
@@ -2272,5 +2275,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;9E2D9DD7789D3C4702B7D29D7162668E"
+  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;649AA9D0975A1B004198417A7C0E73E4"
 }
