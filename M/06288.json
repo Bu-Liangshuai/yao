@@ -8,9 +8,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-	{"key":"dr_豆瓣","name":"🔍豆瓣荐片(drpy)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/%e8%b1%86%e7%93%a3.js"},
-{"key":"T4_douban","name":"🔍影视推荐(T4)","type":4,"api":"http://top.fuqizhishi.com/vod","searchable":1,"quickSearch":1,"filterable":1},
+    },	{"key":"dr_豆瓣","name":"🔍豆瓣荐片(drpy)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/%e8%b1%86%e7%93%a3.js"},
+	{"key":"T4_douban","name":"🔍影视推荐(T4)","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "追剧喵",
       "name": "🐈追剧喵",
@@ -1059,6 +1058,11 @@
         }
       }
     },
+	{
+		"name": "宝盒TV",
+		"type": 1,
+		"url": "https://jx.52ruo.cc/json/?id=6&url="
+	},
 	{"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
 	{"name":"okjx","type":0,"url":"https://okjx.cc/?url="},
     {
@@ -1493,5 +1497,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;501A3F6E9D300B46504E44C5CF0C9281"
+  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;3C6A034466BB2DE57CC9627FB1DE9CE5"
 }
