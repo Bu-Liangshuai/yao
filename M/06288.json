@@ -26,7 +26,8 @@
       "api": "csp_AppTT",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "ext":"http://110.42.6.212:7788"
     },
     {
       "key": "神马影院",
