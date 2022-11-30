@@ -27,7 +27,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext":"http://110.42.6.212:7788"
+      "ext":"http://43.154.35.148:9797/api/tutuapp.php"
     },
     {
       "key": "神马影院",
@@ -1498,5 +1498,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;0E0706DC2BDEE26BC46FD7617CF1B3B7"
+  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;1EBEB8602FB40129AB86304779C44D69"
 }
