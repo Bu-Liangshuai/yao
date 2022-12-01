@@ -8,7 +8,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },	{"key":"dr_豆瓣","name":"🔍豆瓣荐片(drpy)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/%e8%b1%86%e7%93%a3.js"},
+    },	{"key":"dr_豆瓣","name":"🔍豆瓣荐片(js)","type":3,"api":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/lib/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/js/豆瓣.js"},
 	{"key":"T4_douban","name":"🔍影视推荐(T4)","type":4,"api":"http://t4.ganggang.live:3812/vod","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "追剧喵",
@@ -28,7 +28,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext":"http://43.154.35.148:9797/api/tutuapp.php"
-    },
+    },	{"key":"AppTT","name":"图图","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/735/ts.jar?sign=aiIxWTSkoIoN83lpEJm3iChI1jHPeVTkEWCYZAluzsI%3D%3A0"},
     {
       "key": "神马影院",
       "name": "🐎神马影院",
@@ -111,12 +111,12 @@
       "filterable": 1
     },
 	{"key":"csp_Voflix","name":"🌀Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"IKan","name":"💖爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/cs.txt"},
-{"key":"Tbook","name":"🌿听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/cs.txt"},
-{"key":"Yanet","name":"🦆鸭奶飞","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/cs.txt"},
-{"key":"Pang","name":"🐯胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/cs.txt"},
-{"key":"Tian","name":"💎天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/cs.txt"},
-{"key":"Hei","name":"🍅石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/cs.txt"},
+	{"key":"IKan","name":"爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/735/ts.jar?sign=aiIxWTSkoIoN83lpEJm3iChI1jHPeVTkEWCYZAluzsI%3D%3A0"},
+{"key":"Tbook","name":"听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/735/ts.jar?sign=aiIxWTSkoIoN83lpEJm3iChI1jHPeVTkEWCYZAluzsI%3D%3A0"},
+{"key":"Yanet","name":"鸭奈飞","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/735/ts.jar?sign=aiIxWTSkoIoN83lpEJm3iChI1jHPeVTkEWCYZAluzsI%3D%3A0"},
+{"key":"Pang","name":"胖虎","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/735/ts.jar?sign=aiIxWTSkoIoN83lpEJm3iChI1jHPeVTkEWCYZAluzsI%3D%3A0"},
+{"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/735/ts.jar?sign=aiIxWTSkoIoN83lpEJm3iChI1jHPeVTkEWCYZAluzsI%3D%3A0"},
+{"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"http://xn--cdun98c.tk:86/api/v3/file/get/735/ts.jar?sign=aiIxWTSkoIoN83lpEJm3iChI1jHPeVTkEWCYZAluzsI%3D%3A0"},
     {
       "key": "293视频",
       "name": "💌293视频",
