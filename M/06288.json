@@ -304,7 +304,7 @@
       "filterable": 0,
       "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/斗鱼.json"
     },
-	{"key":"csp_xBPQ_短视频","name":"☘️短视频","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/短视频.json"},
+    {"key":"csp_xBPQ_短视频","name":"☘️短视频","type":3,"api":"csp_xBPQ","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/sub/短视频.json"},
     {
       "key": "csp_Wmkk",
       "name": "👩‍🎓完美看看",
