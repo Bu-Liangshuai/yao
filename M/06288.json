@@ -169,6 +169,15 @@
       "quickSearch": 1,
       "filterable": 0
     },
+	{
+      "key": "csp_Auete",
+      "name": "🐼Auete(SP)",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "Lezhu_spider",
       "name": "🐷乐猪影视(SP)",
@@ -444,15 +453,6 @@
       "name": " ✨爱奇艺（官）",
       "type": 3,
       "api": "csp_IQIYI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_Auete",
-      "name": "🐼Auete(SP)",
-      "type": 3,
-      "api": "csp_Auete",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
