@@ -59,6 +59,8 @@
       "quickSearch": 1,
       "filterable": 1
     },
+	{"key":"csp_SP2345","name":"2345","type":3,"api":"csp_SP2345","searchable":1,"quickSearch":1,"filterable":1},
+	{"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
     {
       "key": "csp_Bttoo",
       "name": "🍷两个BT(SP)",
@@ -203,7 +205,6 @@
     {"key":"Dy555","name":"555（SP）","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
     {"key":"IKan","name":"爱看","type":3,"api": "csp_Dora","searchable": 1,"quickSearch": 1,"filterable":1,"ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
     {"key":"Yanet","name":"鸭奈飞","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"a369b1f623fe86605f1b029f0cf66349","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
-    {"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
     {"key":"Hei","name":"石榴","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"3bff500c8b1e06c052a1b0f1f7a62b45","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
     {"key":"Tbook","name":"听书网","type":3,"api":"csp_Dora","searchable":1,"quickSearch":1,"filterable":1,"ext":"d16d1517e9eaad9909cb35c55ba0b784","jar":"https://gitea.com/Yoursmile11/ppcat/raw/branch/master/ts.jar"},
      {
@@ -287,7 +288,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "Gitcafe",
@@ -297,7 +298,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "FindZY",
@@ -307,7 +308,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt$$$yingshi$$$abcd1234"
     },
     {
       "key": "csp_Yisou",
@@ -317,7 +318,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "csp_Upyunso",
@@ -327,7 +328,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
     {
       "key": "push_agent",
@@ -337,7 +338,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/Yoursmile2/Yoursmile/raw/branch/main/token.txt"
+      "ext": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/token.txt"
     },
 	{
       "key": "Ekan_spider",
@@ -1477,5 +1478,5 @@
     "cms.qdwght.com"
   ],
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;DDAF13D7923EA1E333EA06ED930778A2"
+  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;80D7CCDF664EF57C4C2A071B344053C1"
 }
