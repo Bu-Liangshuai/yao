@@ -982,6 +982,9 @@
 			"flag":["qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"]
 		}  
 	},
+	{"name":"懒2","type":1,"url":"http://lanlan.ckflv.cn/?url="},
+	{"name":"猫爪1","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+	{"name":"ok","type":0,"url":"https://okjx.cc/?url="}, 
 	{"name":"Q1解析1","type":1,"url":"https://parse.ikunfk.cc/parse/sign/812a0f3b8a7ae9dbf90f3d7fac9c8cbc?url=","header":{"User-Agent":"Mozilla/5.0"}},
 	{"name":"Q1解析2","type":1,"url":"https://parse.ikunfk.cc/parse/sign/8698eafb816d87f28262c8e280c71078?url=","header":{"User-Agent":"Mozilla/5.0"}},
 	{"name":"Q1解析3","type":1,"url":"https://parse.ikunfk.cc/parse/sign/c092d1231fdaea71d821357e79a3123738b5ada748?url=","header":{"User-Agent":"Mozilla/5.0"}},
@@ -990,7 +993,6 @@
 		"type": 1,
 		"url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="
 	},
-	{"name":"懒2","type":1,"url":"http://lanlan.ckflv.cn/?url="},
 	{"name":"4K","url":"https://jx.4kdv.com/?url=","showType":1},
 	{"name":"高速接口","url":"https://jsap.attakids.com/?url=","showType":3},
 	{"name":"综合/B站","url":"https://jx.bozrc.com:4433/player/?url=","showType":3},
