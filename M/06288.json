@@ -55,7 +55,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"csp_555","name":"555影视","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
+    {"key":"csp_555","name":"555","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
     {"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
     {"key":"csp_Yht","name":"🍀野荷塘","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
     {
@@ -125,7 +125,7 @@
     {"key":"BuLei","name":"⚡布雷","type":3,"api":"BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.bulei.cc"},
     {"key":"csp_Lib","name":"🔷LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.libvio.cc"},
     {"key":"csp_DiDuan","name":"📺低端","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-    {"key":"IKan","name":"爱看","type":"3","api":"csp_IKan","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://raw.fastgit.org/Bu-Liangshuai/yao/main/ts.jar"},
+    {"key":"IKan","name":"爱看2","type":"3","api":"csp_IKan","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50","jar":"https://raw.fastgit.org/Bu-Liangshuai/yao/main/ts.jar"},
     {
       "key": "csp_Lgyy",
       "name": "蓝光影院",
