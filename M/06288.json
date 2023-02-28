@@ -55,7 +55,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"csp_555","name":"555","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
+    {"key":"csp_555","name":"555影视","type":3,"api":"csp_Ys555","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.555dyy1.com"},
     {"key":"Tian","name":"天天","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"bdc1c75081e5e477189a463baa47e392"},
     {"key":"csp_Yht","name":"🍀野荷塘","type":3,"api":"csp_Yht","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yehetang.cc"},
     {
@@ -284,15 +284,6 @@
       "name": " 👟看视界",
       "type": 3,
       "api": "csp_KanSJ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "csp_555",
-      "name": "555SP",
-      "type": 3,
-      "api": "csp_Dy555",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
