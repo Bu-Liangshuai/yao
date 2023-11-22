@@ -1,0 +1,6 @@
+云南,#genre#
+云南都市,http://221.213.43.82:8888/newlive/live/hls/53/live.m3u8
+云南都市,http://tvlive.ynradio.com/live/yunnandushi/playlist.m3u8
+云南都市,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
+红河州新闻综合,http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv?zyund
+红河州公共,http://tv.drs.hhtv.cc:8100/channellive/hhtv-2.flv?zyund
